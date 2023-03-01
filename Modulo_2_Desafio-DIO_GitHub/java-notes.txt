@@ -1,0 +1,58 @@
+Aula 1 - Java Básico 
+
+Ver link: https://glysns.gitbook.io/java-basico/
+
+A Linguagem Java é composta por um conjunto bem definido de funcionalidades (features) que são super 
+recomendadas para você entusiasta em programação conhecer o máximo que puder. Originada em C e C++. 
+
+É uma linguagem simples, orientada a objeto, segura, portátil (por exemplo, mesma para diferentes sistemas 
+operacionais, como Linux e Windows, por exemplo. O conceito WORA Write Once Run Anywhere e o recurso independente de 
+plataforma tornam o Java portátil. Agora, usando a linguagem de programação Java, os desenvolvedores podem obter o mesmo 
+resultado em qualquer máquina, escrevendo o código apenas uma vez. A razão por trás disso é JVM e bytecode), 
+robusta, multi-thread (Multi-threading é o nome dado ao processo de vários threads sendo executados simultaneamente).
+
+Aula 2 - Java e sua história
+
+Ver link: https://glysns.gitbook.io/java-basico/fundamentos/java-e-sua-historia
+
+Conteúdo dinâmico
+
+Java é agora utilizada praticamente em todo lugar:
+- Páginas da Web com conteúdo interativo e dinâmico;
+- Aplicações corporativas de grande porte;
+- Softwares destinados ao consumidor final.
+- Aplicativos para Smartphones.
+
+
+Aula 3 - Escolha sua IDE
+
+Ver link: https://glysns.gitbook.io/java-basico/fundamentos/escolha-sua-ide
+
+IDE - Integrated Development Environment ou Ambiente de Desenvolvimento Integrado. 
+É um software que dispõe de recursos que auxiliam muito nosso desenvolvimento, como:
+- Aceleração de nossa escrita com Auto-complete ou IntelliSense;
+- Formatação de palavras e blocos de códigos;
+- Análise de erro de sintaxe;
+- Compilação de programa;
+- Depuração (acompanhamento) de execução do programa.
+
+Exemplos:
+
+- Eclipse
+- IntelliJ
+- Visual Studio Code (VS Code) - Microsoft
+- NetBeans
+
+Aula 4 - Configurando o ambiente
+
+Ver link: https://glysns.gitbook.io/java-basico/fundamentos/configurando-o-ambiente-de-desenvolvimento
+
+
+
+
+
+
+
+
+
+
